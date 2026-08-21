@@ -4,13 +4,13 @@
 
 **Machine Learning · Data Mining · Open Source**
 
-I enjoy turning research ideas into reproducible experiments and useful tools.
-
 </div>
 
 ## About me
 
-I am interested in machine learning, data mining, and practical research tools. I value clear questions, reproducible experiments, and software that remains useful beyond a single project.
+I am interested in machine learning, data mining, and practical research tools. I love cold jokes.
+
+> 🧊 **Cold joke of the day:** My jokes generalize perfectly. Nobody laughs on either the training set or the test set.
 
 ## 1. Published research
 
@@ -30,6 +30,4 @@ These are tools and projects that I build, use, or learn from in research and ev
 - [**pixel-art**](https://github.com/qisumi/pixel-art): A full-stack pixel-art and fuse-bead pattern editor with perceptual color matching.
 - [**fanqie-qimao-downloader**](https://github.com/qisumi/fanqie-qimao-downloader): A FastAPI + Vue application for downloading, managing, exporting, and reading web novels.
 
-> 🧊 **Cold joke of the day:** My jokes generalize perfectly. Nobody laughs on either the training set or the test set.
-
-If you would like to discuss machine learning, reproducible research, useful tools, or a good bad joke, feel free to start a conversation in the relevant repository.
+If you would like to discuss my research or other public repositories, feel free to contact me at [ziqizhao@seu.edu.cn](mailto:ziqizhao@seu.edu.cn) or [ziqi_zhao@qq.com](mailto:ziqi_zhao@qq.com).
